@@ -7,7 +7,7 @@ Memory Game adalah permainan klasik yang menguji daya ingat Anda. Permainan ini 
 1. Pastikan Anda memiliki Python terinstal. Jika belum, unduh dan instalasi dari [python.org](https://www.python.org/downloads/).
 2. Clone repositori ini ke komputer Anda.
    ```bash
-   git clone https://github.com/username/memory-game.git
+   git clone https://github.com/nelsenn/memory-game.git
 
 ## Sedikit Arahan
 1. Masuk ke direktori proyek,
